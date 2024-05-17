@@ -1,2 +1,4 @@
 # demo
-this is my 1st git reporatory
+this is my 1st git respiratory
+<be>
+Author: Mohit Naval
